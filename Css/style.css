@@ -21,7 +21,7 @@ fieldset {
   box-shadow: 0 0 10px black;
 }
 fieldset legend {
-  background-image: url("img/background2.jpg");
+  background-image: url("../Image/background2.jpg");
   font-family: "Old English Text MT", sans-serif;
   padding: 12px 25px;
   font-size: 20px;
@@ -49,7 +49,7 @@ select {
   outline: none;
   border: none;
   border-radius: 5px;
-  padding: 10px 10px;
+  padding: 5px 5px;
 }
 textarea {
   outline: none;
@@ -66,10 +66,10 @@ textarea:focus {
   background-color: #56d8e9;
   box-shadow: 0 0 10px rgb(27, 236, 225);
   color: #ffffff;
-  padding: 10px 10px;
+  padding: 5px 5px;
 }
 .button {
-  background-image: url("img/background2.jpg");
+  background-image: url("../Image/background2.jpg");
   font-family: "Old English Text MT", sans-serif;
   padding: 12px 25px;
   font-size: 20px;
