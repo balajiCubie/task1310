@@ -49,6 +49,7 @@ select {
   outline: none;
   border: none;
   border-radius: 5px;
+  padding: 10px 10px;
 }
 textarea {
   outline: none;
@@ -62,8 +63,10 @@ input[type="number"]:focus,
 input[type="month"]:focus,
 select:focus,
 textarea:focus {
-  background-color: #cba483;
-  box-shadow: 0 0 10px darkred;
+  background-color: #56d8e9;
+  box-shadow: 0 0 10px rgb(27, 236, 225);
+  color: #ffffff;
+  padding: 10px 10px;
 }
 .button {
   background-image: url("img/background2.jpg");
